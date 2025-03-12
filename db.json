@@ -1,0 +1,594 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gaming accessories",
+      "tag": "Gaming",
+      "image": "/src/assets/products/hair_care.jpg",
+      "products": [
+        {
+          "id": 1,
+          "name": "PlayStation 5",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/game1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Xbox Series X",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/game2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Gaming Mouse",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game3.jpg"
+        },
+        {
+          "id": 4,
+          "name": "headPhone",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Shop deals in Fashion",
+      "tag": "Fashion",
+      "image": "/src/assets/products/home&kitchen.jpg",
+      "products": [
+        {
+          "id": 5,
+          "name": "Jeans under $50",
+          "price": 49,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/fashion.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Tops under $25",
+          "price": 20,
+          "discount": 5,
+          "offer": true,
+          "stock": 20,
+          "image": "/src/assets/products/fashio1.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Tops under $25",
+          "price": 20,
+          "discount": 5,
+          "offer": true,
+          "stock": 20,
+          "image": "/src/assets/products/fashio3.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Tops under $25",
+          "price": 20,
+          "discount": 5,
+          "offer": true,
+          "stock": 20,
+          "image": "/src/assets/products/fashio2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shop for your home essentials",
+      "tag": "HomeEssentials",
+      "image": "/src/assets/products/electronics.jpg",
+      "products": [
+        {
+          "id": 1,
+          "name": "Storage Organizer",
+          "price": 99,
+          "discount": 15,
+          "offer": true,
+          "stock": 10,
+          "image": "/src/assets/products/home1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Cleaning Tools Set",
+          "price": 39,
+          "discount": 5,
+          "offer": true,
+          "stock": 30,
+          "image": "/src/assets/products/home2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Cleaning Tools Set",
+          "price": 39,
+          "discount": 5,
+          "offer": true,
+          "stock": 30,
+          "image": "/src/assets/products/home_desighn.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Cleaning Tools Set",
+          "price": 39,
+          "discount": 5,
+          "offer": true,
+          "stock": 30,
+          "image": "/src/assets/products/home4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "New year, new supplies",
+      "tag": "NewYearSupplies",
+      "image": "/src/assets/products/home_supplies.jpg",
+      "products": [
+        {
+          "id": 9,
+          "name": "Notebook Set",
+          "price": 15,
+          "discount": 2,
+          "offer": true,
+          "stock": 50,
+          "image": "/src/assets/products/home_supplies.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Top categories in Kitchen appliances",
+      "tag": "Kitchen",
+      "image": "/src/assets/products/home_supplies.jpg",
+      "products": [
+        {
+          "id": 10,
+          "name": "PlayStation 5",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/game1.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Xbox Series X",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/game2.jpg"
+        },
+        {
+          "id": 12,
+          "name": "mic",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game3.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Automated mic",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Shop Valentine's Day gifts",
+      "tag": "Valentines",
+      "image": "/src/assets/products/valentine_shop.jpg",
+      "products": [
+        {
+          "id": 14,
+          "name": "Heart-shaped Mug",
+          "price": 15,
+          "discount": 3,
+          "offer": true,
+          "stock": 30,
+          "image": "/src/assets/products/valentine_shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Wireless Tech",
+      "tag": "WirelessTech",
+      "image": "/src/assets/products/tech.jpg",
+      "products": [
+        {
+          "id": 15,
+          "name": "Rolex",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/self care.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Apple watch",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/home4.jpg"
+        },
+        {
+          "id": 17,
+          "name": "xmax",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/home&kitchen.jpg"
+        },
+        {
+          "id": 18,
+          "name": "samsung watch",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/home2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Most-loved watches",
+      "tag": "Watches",
+      "image": "/src/assets/products/Exp_HP_Dt_Cat_Card.jpg",
+      "products": [
+        {
+          "id": 19,
+          "name": "rolexes",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/fashio2.jpg"
+        },
+        {
+          "id": 20,
+          "name": "diamara",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/grocery.jpg"
+        },
+        {
+          "id": 21,
+          "name": "prada",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/fragrance.jpg"
+        },
+        {
+          "id": 22,
+          "name": "versache",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/Exp_HP_Dt_Cat_Card.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Transform Toys",
+      "tag": "Watches",
+      "image": "/src/assets/products/Exp_HP_Dt_Cat_Card.jpg",
+      "products": [
+        {
+          "id": 23,
+          "name": "Teddy Bear 5",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/toy1.jpg"
+        },
+        {
+          "id": 24,
+          "name": "marvel toys",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/toy2.jpg"
+        },
+        {
+          "id": 25,
+          "name": "spong bob",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/toy3.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Racing Car",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/toy4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Curate Your Space",
+      "tag": "Watches",
+      "image": "/src/assets/products/GSS00024081_013125_UK_RetailNewM.jpg",
+      "products": [
+        {
+          "id": 27,
+          "name": "candles",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/curate1.jpg"
+        },
+        {
+          "id": 28,
+          "name": "stylish pillows",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/curate3.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Indoor Gardening",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/curate4.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Storage and Organization",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/courate2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Discover these beauty products for you",
+      "tag": "Watches",
+      "image": "/src/assets/products/skin_care.jpg",
+      "products": [
+        {
+          "id": 31,
+          "name": "SkinCare",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/game1.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Makeup",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/game2.jpg"
+        },
+        {
+          "id": 33,
+          "name": "Fragnances",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game3.jpg"
+        },
+        {
+          "id": 34,
+          "name": "Nails",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vacation getaway",
+      "tag": "Watches",
+      "image": "/src/assets/products/krept&konan.jpg",
+      "products": [
+        {
+          "id": 35,
+          "name": "HandBags",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/game1.jpg"
+        },
+        {
+          "id": 36,
+          "name": "SwimWear",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/game2.jpg"
+        },
+        {
+          "id": 37,
+          "name": "Sandles",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game3.jpg"
+        },
+        {
+          "id": 38,
+          "name": "Skin cares",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Score the top PCs & Accessories",
+      "tag": "Watches",
+      "image": "/src/assets/products/fragrance.jpg",
+      "products": [
+        {
+          "id": 39,
+          "name": "Desktops",
+          "price": 499,
+          "discount": 0,
+          "offer": false,
+          "stock": 5,
+          "image": "/src/assets/products/game1.jpg"
+        },
+        {
+          "id": 40,
+          "name": "LapTop",
+          "price": 499,
+          "discount": 20,
+          "offer": true,
+          "stock": 6,
+          "image": "/src/assets/products/game2.jpg"
+        },
+        {
+          "id": 41,
+          "name": "Pc accessories",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game3.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Hard drives",
+          "price": 79,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/game4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Shop deals in Fashion",
+      "tag": "Fashion",
+      "image": "/src/assets/products/home&kitchen.jpg",
+      "products": [
+        {
+          "id": 43,
+          "name": "Jeans under $50",
+          "price": 49,
+          "discount": 10,
+          "offer": true,
+          "stock": 15,
+          "image": "/src/assets/products/fashion.jpg"
+        },
+        {
+          "id": 44,
+          "name": "Tops under $25",
+          "price": 20,
+          "discount": 5,
+          "offer": true,
+          "stock": 20,
+          "image": "/src/assets/products/fashio1.jpg"
+        },
+        {
+          "id": 45,
+          "name": "Tops under $25",
+          "price": 20,
+          "discount": 5,
+          "offer": true,
+          "stock": 20,
+          "image": "/src/assets/products/fashio3.jpg"
+        },
+        {
+          "id": 46,
+          "name": "Tops under $25",
+          "price": 20,
+          "discount": 5,
+          "offer": true,
+          "stock": 20,
+          "image": "/src/assets/products/fashio2.jpg"
+        }
+      ]
+    }
+  ],
+
+  "HeaderCategories": [
+    { "id": 1, "name": "All" },
+    { "id": 2, "name": "Alexa Skills" },
+    { "id": 3, "name": "Amazon Devices" },
+    { "id": 4, "name": "Amazon Fresh" },
+    { "id": 5, "name": "Amazon Global Store" },
+    { "id": 6, "name": "Amazon Resale" },
+    { "id": 7, "name": "Apps & Games" },
+    { "id": 8, "name": "Audible Audiobooks" },
+    { "id": 9, "name": "Baby" },
+    { "id": 10, "name": "Beauty" },
+    { "id": 11, "name": "Books" },
+    { "id": 12, "name": "Car & Motorbike" },
+    { "id": 13, "name": "CDs & Vinyl" },
+    { "id": 14, "name": "Classical Music" },
+    { "id": 15, "name": "Co-op" },
+    { "id": 16, "name": "Computers & Accessories" },
+    { "id": 17, "name": "Deals" },
+    { "id": 18, "name": "Digital Music" },
+    { "id": 19, "name": "DIY & Tools" },
+    { "id": 20, "name": "DVD & Blu-ray" }
+  ],
+  "homeBackground": [
+    { "id": 1, "src": "/src/assets/icon/background.jpg" },
+    { "id": 2, "src": "/src/assets/icon/backgeround2.jpg" },
+    { "id": 3, "src": "/src/assets/icon/background3.jpg" }
+  ]
+}
