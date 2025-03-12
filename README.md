@@ -25,7 +25,8 @@ This is a fully responsive Amazon-like e-commerce website built using **React**,
 - **State Management**: Context API  
 
 ## 📸 Screenshots
-![Alt text](./images/photo.jpg)
+![Alt text](/src//assets//overview.png)
+
 
 
 
